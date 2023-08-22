@@ -1,0 +1,4 @@
+asgiref==3.7.2
+numpy==1.25.1
+sqlparse==0.4.4
+tzdata==2023.3
